@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/topjuegos-react/static/css/main.3f327bb1.css",
-    "main.js": "/topjuegos-react/static/js/main.37f1ccb9.js",
+    "main.js": "/topjuegos-react/static/js/main.198f9193.js",
     "index.html": "/topjuegos-react/index.html",
     "main.3f327bb1.css.map": "/topjuegos-react/static/css/main.3f327bb1.css.map",
-    "main.37f1ccb9.js.map": "/topjuegos-react/static/js/main.37f1ccb9.js.map"
+    "main.198f9193.js.map": "/topjuegos-react/static/js/main.198f9193.js.map"
   },
   "entrypoints": [
     "static/css/main.3f327bb1.css",
-    "static/js/main.37f1ccb9.js"
+    "static/js/main.198f9193.js"
   ]
 }
